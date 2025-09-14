@@ -555,6 +555,5 @@ This project is created for educational and demonstration purposes.
 
 ---
 
-**Built with ❤️ by [Your Name]**
 
 *Demonstrating full-stack development skills with modern web technologies*
