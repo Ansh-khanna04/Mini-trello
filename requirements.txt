@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-SocketIO
+Flask-CORS
+Flask-Migrate
+PyMySQL
+python-dotenv
+bcrypt
+waitress
